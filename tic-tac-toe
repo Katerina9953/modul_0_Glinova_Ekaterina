@@ -1,0 +1,26 @@
+a = [0, 1, 2, 3, 4, 5, 6, 7, 8 ]
+gamer_X= input ("Игрок Х, введите номер ячейки от 0 до 8:")
+gamer_O= input ("Игрок O, введите номер ячейки от 0 до 8:")
+for gamer_X in [a]:
+    if [a] == 0 and [a] == 1 and [a] == 2:
+     if [a] == 3 and [a] == 4 and [a] == 5:
+        if [a] == 6 and [a] == 7 and [a] == 8:
+            if [a] == 0 and [a] == 3 and [a] == 6:
+                if [a] == 1 and [a] == 4 and [a] == 7:
+                    if [a] == 2 and [a] == 5 and [a] == 8:
+                        if [a] == 0 and [a] == 4 and [a] == 8:
+                            if [a] == 2 and [a] == 4 and [a] == 6:
+                                print ("Выиграл игрок Х")
+
+
+for gamer_O in [a]:
+    if [a] == 0 and [a] == 1 and [a] == 2:
+     if [a] == 3 and [a] == 4 and [a] == 5:
+        if [a] == 6 and [a] == 7 and [a] == 8:
+            if [a] == 0 and [a] == 3 and [a] == 6:
+                if [a] == 1 and [a] == 4 and [a] == 7:
+                    if [a] == 2 and [a] == 5 and [a] == 8:
+                        if [a] == 0 and [a] == 4 and [a] == 8:
+                            if [a] == 2 and [a] == 4 and [a] == 6:
+                                print ("Выиграл игрок O")
+
